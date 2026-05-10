@@ -1,0 +1,13 @@
+
+---
+
+# 📦 2️⃣ requirements.txt (FULL FIXED)
+
+👉 `requirements.txt` मध्ये हे paste कर:
+
+```txt id="req1"
+streamlit
+pandas
+plotly
+numpy
+scikit-learn
